@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Foco em tecnologia e desenvolvimento</h1>
 
-<!--
-**HIDEKI-SHIN/HIDEKI-SHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Linux+User;Python+Learner;Future+Developer;Always+Learning&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Sobre mim
+
+- 💻 Estudante de TI
+- 🐧 Aprendendo Linux e programação
+- ⚡ Explorando automação e desenvolvimento
+
+## 🚀 Tecnologias
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
